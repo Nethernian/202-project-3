@@ -20,7 +20,7 @@ Finally, if you are in CMSC 202 (or have been assigned this project or one simil
 If you do, your professor **WILL** fail you, and you **WILL** get in trouble for academic dishonesty. If you ignore this and get in trouble, **it is 100% on you**.
 
 ### Code Ownership
-For this project there were some files provided by the professor, which I have included here. For the most part, they are instrumental to the codebase and as such have not been removed. I do not pretend to be the owner of these files, and the individual files have the author's commented at the top.
+For this project there were some files provided by the professor, which I have included here. For the most part, they are instrumental to the codebase and as such have not been removed. I do not pretend to be the owner of these files, and the individual files have the author's name commented at the top.
 
 ### Request Removal
 If you are from the UMBC faculty or staff and would like to request the removal of this repository, please send me an email at nathanw2@umbc.edu. Until such time that I receive a request for removal, this repository will remain up and public.
